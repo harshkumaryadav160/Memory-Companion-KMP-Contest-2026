@@ -6,7 +6,7 @@
 [![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-1.7.0-brightgreen)](https://www.jetbrains.com/lp/compose-multiplatform/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="screenshots/01-person-list.png" alt="Memory Companion Banner" width="800"/>
+<img src="screenshots/01-person-list.png" alt="Memory Companion Banner" width="500"/>
 
 ---
 
@@ -33,7 +33,7 @@ Memory Companion makes capturing and querying personal memories **effortless and
 
 ### Voice Input - Speak, Don't Type
 
-<img src="screenshots/02-voice-input.png" alt="Voice Input" width="600"/>
+<img src="screenshots/02-voice-input.png" alt="Voice Input" width="500"/>
 
 Press and hold the microphone button. Speak naturally:
 
@@ -45,7 +45,7 @@ The app transcribes everything automatically using platform-native speech recogn
 
 ### AI Analysis - Automatic Context Extraction
 
-<img src="screenshots/03-ai-review.png" alt="AI Review" width="600"/>
+<img src="screenshots/03-ai-review.png" alt="AI Review" width="500"/>
 
 Powered by **Google Gemini AI**, the app automatically extracts:
 
@@ -62,7 +62,7 @@ Powered by **Google Gemini AI**, the app automatically extracts:
 
 ### Ethical Design - You Stay in Control
 
-<img src="screenshots/03-ai-review.png" alt="Consent Screen" width="600"/>
+<img src="screenshots/03-ai-review.png" alt="Consent Screen" width="500"/>
 
 **Nothing is saved without your explicit approval.**
 
@@ -77,7 +77,7 @@ This isn't just a feature - it's a core design principle. Your memories, your co
 
 ### Smart Queries - Ask in Natural Language
 
-<img src="screenshots/05-chat-query.png" alt="Chat Query" width="600"/>
+<img src="screenshots/05-chat-query.png" alt="Chat Query" width="500"/>
 
 No need to search manually. Just ask:
 
