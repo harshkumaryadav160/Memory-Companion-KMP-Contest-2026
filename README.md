@@ -523,7 +523,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - GitHub: [@harshkumaryadav160](https://github.com/harshkumaryadav160)
 - Email: harshkr1608@gmail.com
-- LinkedIn: [Harsh Kumar](https://linkedin.com/in/harsh-kumar)
+- LinkedIn: [Harsh Kumar](https://linkedin.com/in/harsh-kumar-30a45928b)
 
 ---
 
@@ -542,7 +542,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Contest:** Kotlin Multiplatform Contest
 - **Category:** Kotlin Multiplatform
 - **Submission Date:** January 2026
-- **Repository:** [github.com/harshk160/Memory-Companion-KMP-Contest-2026](https://github.com/harshku,aryadav160/Memory-Companion-KMP-Contest-2026)
+- **Repository:** [github.com/harshkumaryadav160/Memory-Companion-KMP-Contest-2026](https://github.com/harshkumaryadav160/Memory-Companion-KMP-Contest-2026)
 
 ---
 
